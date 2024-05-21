@@ -37,6 +37,27 @@ h6 {
   background-color: rgb(255, 41, 156);
 }
 
+.hero {
+    background: url('../images/popcorn.jpg') 0 0;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 100px;;
+    opacity: 75%;
+    min-height: 300px;
+    height: 80vh;
+    overflow: hidden;
+}
+
+
+.form-wrapper {
+    margin-top: -200px !important;
+    position: relative;
+    padding: 20px;
+    z-index: 1;
+    background-color: #ffffff;
+}
+
 footer {
   background-color: #222222;
 }
@@ -45,4 +66,10 @@ footer > p,
 footer > div > p,
 .list-inline-item {
   color: #ff299c;
+}
+
+@media (min-width: 768px) {
+    .form-wrapper .form-img {
+        position: sticky;
+    }
 }
