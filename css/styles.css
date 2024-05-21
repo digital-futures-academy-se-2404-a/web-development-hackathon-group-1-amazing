@@ -49,7 +49,18 @@ header {
 }
 
 .btn-primary:hover {
+  border: 1px solid #5458b5;
   background-color: #5458b5;
+}
+
+.btn-secondary {
+  border: 1px solid #5358B5;
+  background-color: rgb(83, 88, 181);
+}
+
+.btn-secondary:hover {
+  border: 1px solid #f060ad;
+  background-color: #f060ad;
 }
 
 .hero {
@@ -92,8 +103,9 @@ footer > div > p,
   color: #ff299c;
 }
 
-footer > img:hover {
-  transform: scale(1.2);
+footer .footer-socials a img:hover {
+  transform: scale(1.18);
+  transition: ease-in-out 0.35s scale;
 }
 
 @media (min-width: 768px) {
