@@ -9,7 +9,7 @@
     "url": "git+https://github.com/digital-futures-academy-se-2404-a/web-development-hackathon-group-1-amazing.git"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "parcel *.html"
   },
   "author": "Group 1: Amy, Heil, Ethan, Julian, Nick",
   "license": "ISC",
