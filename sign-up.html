@@ -28,15 +28,32 @@
 
 <body>
     <header>
-        <div>
-            <object data="images/df-cinemas-logo.svg" width="130" height="130" alt="DF Cinema">DF Cinemas</object>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="./whats-on.html">What's On</a></li>
-                <li><a href="./sign-up.html" class="active">Sign Up</a></li>
-            </ul>
+        <nav class="navbar navbar-expand-lg navbar-light p-2" style="background-color: #f10668;">
+            <a href="index.html" class="navbar-brand">
+                <img width="40" height="32" role="img" alt="DF Cinema" src="./images/df-cinemas-logo-dark.svg">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
+                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+    
+    
+            <div class="collapse navbar-collapse" id="navbarToggler">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link px-2 text-white">Home</a>
+                    </li>
+                    </li>
+                    <li class="nav-item">
+                        <a href="whats-on.html" class="nav-link px-2 text-white">What's On</a>
+                    </li>
+                    </li>
+                    <li class="nav-item">
+                        <a href="sign-up.html" class="nav-link px-2 text-white">Sign Up</a>
+                    </li>
+                    </li>
+                </ul>
+            </div>
         </nav>
     </header>
     <div class="container">
