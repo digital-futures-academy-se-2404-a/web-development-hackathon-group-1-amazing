@@ -16,8 +16,8 @@
 181E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-cli\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133607590662207337 0
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\fs\node_modules\@parcel\workers\src\childState.js133607590657778211 0
 159E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\lmdb\dict133607590667727878 1
+113E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\package.json133607668433223474 0
 187E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\htmlnano\lib\modules\mergeScripts.cjs133607590658849131 0
-113E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\package.json133607639386826670 0
 143E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-select\lib\index.d.ts.map133607590663081481 0
 170E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage133607590662428195 1
 132E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\cjs\index.cjs133607590660720159 0
@@ -35,9 +35,9 @@
 162E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-select\lib\pseudo-selectors\pseudos.d.ts.map133607590663718044 0
 176E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\@swc\helpers\src\_set.mjs133607590671094703 0
 123E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\bootstrap133607590669438627 1
+118E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\package-lock.json133607668433213386 0
 185E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\runtime-js\lib\helpers\node133607590662277454 1
 143E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-tree\cjs\lexer\search.cjs133607590666359886 0
-118E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\package-lock.json133607592117990713 0
 197E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\fs\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.c133607590662568617 0
 199E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-tracer\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\tooltag133607590660091811 0
 172E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\types\index.js133607590655639853 0
@@ -47,7 +47,7 @@
 195E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\transformer-postcss\src\loadConfig.js133607590656426146 0
 205E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-cli\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133607590660885741 0
 196E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-dev-server\node_modules\.bin\node-gyp-build-optional-packages.cmd133607590677116937 0
-132E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\.package-lock.json133607592118504691 0
+132E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\.package-lock.json133607664976599513 0
 197E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@swc\helpers\cjs\_object_without_properties.cjs133607590664560694 0
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-dev-server\node_modules\msgpackr\pack.js133607590659690457 0
 136E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\commander\package.json133607590656017959 0
@@ -70,8 +70,8 @@
 210E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-tracer\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.c133607590662991252 0
 181E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\lmdb\dependencies\lmdb-data-v1133607590654168279 1
 141E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\events\src\index.js133607590657496449 0
-103E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\js133607635456500728 1
-121E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel133607592117043910 1
+103E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\js133607668433208204 1
+121E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel133607664975147553 1
 156E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@popperjs\core\dist\esm\utils\getAltLen.js133607590669438627 0
 231E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-dev-server\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test.ps1133607590677162152 0
 188E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\@swc\helpers\_\_inherits\package.json133607590669458622 0
@@ -85,10 +85,10 @@
 137E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-select\lib\types.js133607590660635037 0
 184E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\semver\functions\compare-loose.js133607590657441367 0
 154E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-tree\node_modules\mdn-data\README.md133607590661418326 0
-104E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\css133607596414272467 1
+104E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\css133607668433131239 1
 177E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@swc\helpers\src\_using.mjs133607590671205056 0
 196E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\caniuse-lite\data\features\css-writing-mode.js133607590669127783 0
-113E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules133607592117043910 1
+113E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules133607664975132499 1
 198E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow133607590654833951 0
 189E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest6.c133607590665208355 0
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree\lib\definition-syntax\parse.js133607590668679107 0
@@ -105,7 +105,7 @@
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\supports.cjs133607590666420155 0
 137E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\lib\public133607590667767879 1
 120E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@babel133607590684047117 1
-107E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\images133607582246853509 1
+107E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\images133607668367016281 1
 217E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeAttrs.js133607590662609854 0
 169E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-select\node_modules\domutils\lib\esm\feeds.d.ts.map133607590660021740 0
 158E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-select\node_modules\domhandler\readme.md133607590658643376 0
@@ -113,7 +113,6 @@
 132E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\get-port\readme.md133607590656007968 0
 186E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-tracer\node_modules\@lmdb\lmdb-win32-x64\node.napi.node133607590661051519 0
 174E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\msgpackr-extract\node_modules\.bin133607590676919670 1
-111E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\index.html133607638359732319 0
 160E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree\cjs\lexer\trace.cjs133607590666596078 0
 178E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-cli\node_modules\detect-libc\bin\detect-libc.js133607590656253877 0
 149E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-tree\node_modules\mdn-data\l10n133607590657627971 1
@@ -128,13 +127,12 @@
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-tracer\node_modules\msgpackr-extract\src133607590654560578 1
 170E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@popperjs\core\dist\esm\dom-utils\getWindowScrollBarX.js133607590668930898 0
 147E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-tree\lib\syntax\node\Value.js133607590669448655 0
-113E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\sign-up.html133607638472891443 0
+113E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\sign-up.html133607668433223474 0
 153E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\utils\src\relativeBundlePath.js133607590664550721 0
 150E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@popperjs\core\lib\utils\debounce.js133607590668100450 0
 140E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree133607590669458622 1
 224E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133607590665037521 0
 143E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-tree\lib\walker\create.js133607590667858207 0
-114E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\whats-on.html133607640028690631 0
 133E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@popperjs\core\dist133607590663211814 1
 182E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\node-gyp-build-optional-packages133607590656827367 1
 206E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h133607590666711200 0
@@ -163,7 +161,7 @@
 175E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\css-select\node_modules\domelementtype\lib\esm\index.d.ts.map133607590656967610 0
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\lmdb\dependencies\v8133607590666837039 1
 219E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-cli\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1133607590677004864 0
-119E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@lmdb133607592117053820 1
+119E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@lmdb133607664975147553 1
 134E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\stable\stable.min.js133607590656017959 0
 158E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\utils\node_modules\@parcel\codeframe133607590661192711 1
 186E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\caniuse-lite\data\features\beforeafterprint.js133607590664318941 0
@@ -186,7 +184,7 @@
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\semver\ranges\to-comparators.js133607590662790539 0
 175E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-tracer\node_modules\@parcel\cache\index.d.ts133607590659398049 0
 195E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\caniuse-lite\data\features\document-policy.js133607590670306905 0
-131E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@msgpackr-extract133607592117053820 1
+131E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@msgpackr-extract133607664975147553 1
 181E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js133607590668750314 0
 204E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@swc\helpers\esm\_class_static_private_field_update.js133607590666959896 0
 175E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-dev-server\node_modules\ordered-binary\.idea133607590659080350 1
@@ -198,7 +196,7 @@
 185E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133607590665350051 0
 163E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree\lib\tokenizer\index.js133607590668387743 0
 160E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\csso\node_modules\css-tree\lib\parser\index.js133607590668302391 0
-118E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@swc133607592117043910 1
+118E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@swc133607664975132499 1
 187E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\cache\src\IDBCache.browser.js133607590657240808 0
 204E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\@swc\helpers\src\_class_static_private_method_get.mjs133607590670843720 0
 123E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@trysound133607590683867742 1
@@ -6005,7 +6003,7 @@
 165E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-cli\node_modules\lmdb\src\misc.cpp133607590665913048 0
 180E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\fs\node_modules\@parcel\workers\src\core-worker.browser.js133607590658560176 0
 164E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\reporter-cli\node_modules\lmdb\src\txn.cpp133607590665988391 0
-130E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\whats-on.2d861ec4.js.map133607640033625312 0
+130E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\whats-on.2d861ec4.js.map133607668433193157 0
 167E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\semver\functions\compare.js133607590657718078 0
 198E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\runtime-js\src\helpers\get-worker-url.js133607590659730749 0
 169E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\tslib\package.json133607590657205680 0
@@ -7303,7 +7301,7 @@
 188E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\@parcel\source-map\dist\utils.js.flow133607590655841875 0
 178E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\nth-check\lib\parse.d.ts.map133607590659680462 0
 195E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\@parcel\source-map\dist\wasm-bindings-web.js133607590659600079 0
-105E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist133607640033880187 1
+105E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist133607668433193157 1
 191E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\package-manager\node_modules\@parcel\source-map\dist\wasm-bindings.js133607590659760817 0
 174E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\fs\node_modules\@parcel\source-map\dist\SourceMap.js133607590659060343 0
 163E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\utility-types133607590659147294 1
@@ -8211,7 +8209,7 @@
 151E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\detect-libc133607590656481312 1
 146E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\dotenv133607590656401066 1
 153E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\dotenv-expand133607590656295601 1
-123E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\index.09863fc6.js133607640033675601 0
+123E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\index.09863fc6.js133607668433131239 0
 186E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\caniuse-lite\data\features\css-first-letter.js133607590667903326 0
 148E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\escalade133607590657371106 1
 173E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\browserslist\index.d.ts133607590658238993 0
@@ -8328,7 +8326,7 @@
 180E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\node-gyp-build-optional-packages\LICENSE133607590654218498 0
 185E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\node-gyp-build-optional-packages\node_modules133607590619253430 1
 184E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\node-gyp-build-optional-packages\optional.js133607590656043211 0
-115E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\css\styles.css133607623017640351 0
+115E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\css\styles.css133607668433131239 0
 182E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\node-gyp-build-optional-packages\README.md133607590656917532 0
 208E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc\index.d.ts133607590657119802 0
 153E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\clone\LICENSE133607590655599712 0
@@ -8428,7 +8426,7 @@
 182E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\liblz4-dll.rc.in133607590666917009 0
 173E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\LICENSE133607590658540179 0
 171E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\lz4.c133607590661617083 0
-126E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\whats-on.2d861ec4.js133607640033588151 0
+126E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\whats-on.2d861ec4.js133607668433183197 0
 155E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\detect-libc\bin133607590656153556 1
 173E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lz4\lib\lz4hc.c133607590662247429 0
 192E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\transformer-react-refresh-wrap\src133607590656957608 1
@@ -8452,7 +8450,7 @@
 199E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.c133607590662337999 0
 172E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\@parcel\profiler\lib\Tracer.d.ts133607590659569141 0
 199E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_dump.1133607590660619916 0
-127E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\index.09863fc6.js.map133607640033690663 0
+127E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\index.09863fc6.js.map133607668433141214 0
 199E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_load.1133607590660855732 0
 199E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_stat.1133607590661071533 0
 199E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@swc\helpers\cjs\_check_private_redeclaration.cjs133607590658773761 0
@@ -8967,7 +8965,7 @@
 166E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\@parcel\graph\lib\index.js133607590659620321 0
 193E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\@parcel\transformer-js\lib\JSTransformer.js133607590656088335 0
 185E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\caniuse-lite\data\features\payment-request.js133607590672519730 0
-129E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\sign-up.2cdd5815.js.map133607640033830185 0
+129E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\sign-up.2cdd5815.js.map133607668433153105 0
 185E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\caniuse-lite\data\features\permissions-api.js133607590672540086 0
 179E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\cosmiconfig\dist\types.js.map133607590662297445 0
 188E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\core\node_modules\caniuse-lite\data\features\picture-in-picture.js133607590672570106 0
@@ -11590,11 +11588,13 @@
 181E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\@parcel\config-default\node_modules\.bin\update-browserslist-db.ps1133607590677091367 0
 125E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\.bin\parcel133607590677091367 0
 129E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\node_modules\.bin\parcel.ps1133607590677091367 0
-114E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\js\scripts.js133607615951128741 0
 126E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\images\DFCinemaSignUp.png133607582246843473 0
-116E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\index.html133607640033568140 0
-118E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\sign-up.html133607640033588151 0
-119E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\whats-on.html133607640033588151 0
-125E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\sign-up.2cdd5815.js133607640033808774 0
-159E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\web-development-hackathon-group-1-amazing.3464ddca.js133607640033850183 0
-163E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\web-development-hackathon-group-1-amazing.3464ddca.js.map133607640033870194 0
+116E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\index.html133607668433141214 0
+125E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\sign-up.2cdd5815.js133607668433141214 0
+118E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\sign-up.html133607668433173169 0
+159E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\web-development-hackathon-group-1-amazing.3464ddca.js133607668433183197 0
+163E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\web-development-hackathon-group-1-amazing.3464ddca.js.map133607668433183197 0
+119E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\dist\whats-on.html133607668433193157 0
+111E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\index.html133607668433193157 0
+114E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\js\scripts.js133607668433208204 0
+114E:\Personal\Course\Software Engineer Course - DF\se-2404-a\web-development-hackathon-group-1-amazing\whats-on.html133607671113243896 0
