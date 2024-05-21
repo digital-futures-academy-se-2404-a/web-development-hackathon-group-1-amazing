@@ -19,58 +19,13 @@ const formValidity = {
     }
 };
 
-const errors = {
-    name: {
-        lengthError: `Name should be at least 2 characters`,
-        charactersError: `Name should only contain A-z or - or '`,
-    },
-    email: `The email address supplied is not in a valid format`,
-};
+firstNameInput.addEventListener(`change`, (e) => {
+   if (e.value.length > 1 && regexs[e.id].test(e.value)) {
 
-nameInput.addEventListener(`change`, (e) => {
-    checkNameLength(e.target);
-    checkNameRegEx(e.target);
-    setSubmitDisabled();
-});
+   }
+})
 
-const checkNameRegEx = (element) => {
-    formValidity[element.id].characters = checkRegExValue(
-        element.id,
-        element.value
-    );
-    setValidationTip(
-        element.id,
-        errors[element.id].charactersError,
-        `characters`
-    );
-};
-
-const checkNameLength = (element) => {
-    formValidity[element.id].lengthOfName = element.value.length > 1;
-    setValidationTip(element.id, errors.name.lengthError, `lengthOfName`);
-};
-
-const setSubmitDisabled = () => {
-    submit.disabled = !checkValidity(formValidity);
-};
-
-const checkValidity = (validityObject) => {
-    let validity = true;
-    for (let field in validityObject) {
-        if (!validityObject.hasOwnProperty(field)) continue;
-        const useValueOrDigForBoolean =
-            typeof validityObject[field] === `boolean`
-                ? validityObject[field]
-                : checkValidity(validityObject[field]);
-        validity = validity && useValueOrDigForBoolean;
-    }
-    return validity;
-};
-
-const checkRegExValue = (id, value) => {
-    return regexs[id].test(value);
-};
-
+// Displays or removes the validation message as appropriate for each field
 const setValidationTip = (elementId, message, type) => {
     const invalidFieldParent = document.querySelector(
         `#${elementId}`
@@ -82,13 +37,4 @@ const setValidationTip = (elementId, message, type) => {
     formValidity[elementId][type] &&
         validationMessage &&
         invalidFieldParent.removeChild(validationMessage);
-};
-
-// Creates the validation element to be displayed dependent on the field needing it to display
-const createValidationMessage = (message, type) => {
-    const errorP = document.createElement(`p`);
-    errorP.appendChild(document.createTextNode(message));
-    errorP.id = type;
-    errorP.classList.add(`error`);
-    return errorP;
 };
