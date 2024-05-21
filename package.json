@@ -14,12 +14,10 @@
   "author": "Group 1: Amy, Heil, Ethan, Julian, Nick",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.3.3",
-    "parcel": "^2.12.0"
+    "bootstrap": "^5.3.3"
   },
   "bugs": {
     "url": "https://github.com/digital-futures-academy-se-2404-a/web-development-hackathon-group-1-amazing/issues"
   },
-  "homepage": "https://github.com/digital-futures-academy-se-2404-a/web-development-hackathon-group-1-amazing#readme",
-  "devDependencies": {}
+  "homepage": "https://github.com/digital-futures-academy-se-2404-a/web-development-hackathon-group-1-amazing#readme"
 }
