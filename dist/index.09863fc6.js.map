@@ -1,0 +1,1 @@
+{"mappings":"AAAC,EAAE,iBAAiB,QAAQ,CAAC;IACzB,UAAU;AACb","sources":["js/scripts.js"],"sourcesContent":[" $('#mainCarousel').carousel({\r\n    interval: 3000,\r\n })"],"names":[],"version":3,"file":"index.09863fc6.js.map","sourceRoot":"/__parcel_source_root/"}
