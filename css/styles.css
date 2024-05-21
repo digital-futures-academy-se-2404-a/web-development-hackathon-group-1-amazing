@@ -1,15 +1,14 @@
 html,
 body {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: 'Lato', sans-serif;
-    font-size: 16px;
-    color: #333;
-    background-color: #f4f4f4;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #f4f4f4;
 }
 
 h1,
@@ -18,14 +17,14 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Lato', sans-serif;
-    font-weight: 700;
-    color: #333;
-    margin: 0 0 20px 0;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: #333;
+  margin: 0 0 20px 0;
 }
 
 .btn-primary {
-    background-color: rgb(255, 41, 156);
+  background-color: rgb(255, 41, 156);
 }
 
 .hero {
@@ -33,39 +32,34 @@ h6 {
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
+    padding-top: 100px;;
     opacity: 75%;
+    min-height: 300px;
     height: 80vh;
     overflow: hidden;
 }
-    
 
-.form-wrapper{
+
+.form-wrapper {
     margin-top: -200px !important;
     position: relative;
     padding: 20px;
     z-index: 1;
-    background-color:#ffffff; 
+    background-color: #ffffff;
 }
 
-html, body {
-    margin: 0;
-    padding: 0;
+footer {
+  background-color: #222222;
 }
 
-body {
-    font-family: 'Lato', sans-serif;
-    font-size: 16px;
-    color: #333;
-    background-color: #f4f4f4;
+footer > p,
+footer > div > p,
+.list-inline-item {
+  color: #ff299c;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
-    font-weight: 700;
-    color: #333;
-    margin: 0 0 20px 0;
-}
-
-.btn-primary {
-    background-color: rgb(255, 41, 156);
+@media (min-width: 768px) {
+    .form-wrapper .form-img {
+        position: sticky;
+    }
 }

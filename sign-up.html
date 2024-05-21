@@ -29,21 +29,42 @@
 
 <body>
     <header>
-        <div>
-            <object data="images/df-cinemas-logo.svg" width="130" height="130" alt="DF Cinema">DF Cinemas</object>
-        </div>
-        <nav>
-            <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="./whats-on.html">What's On</a></li>
-                <li><a href="./sign-up.html" class="active">Sign Up</a></li>
-            </ul>
+        <nav class="navbar navbar-expand-lg navbar-light p-2" style="background-color: #f10668;">
+            <a href="index.html" class="navbar-brand">
+                <img width="40" height="32" role="img" alt="DF Cinema" src="./images/df-cinemas-logo-dark.svg">
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggler"
+                aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+    
+    
+            <div class="collapse navbar-collapse" id="navbarToggler">
+                <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link px-2 text-white">Home</a>
+                    </li>
+                    </li>
+                    <li class="nav-item">
+                        <a href="whats-on.html" class="nav-link px-2 text-white">What's On</a>
+                    </li>
+                    </li>
+                    <li class="nav-item">
+                        <a href="sign-up.html" class="nav-link px-2 text-white">Sign Up</a>
+                    </li>
+                    </li>
+                </ul>
+            </div>
         </nav>
     </header>
-    <div class="hero"></div>
+    <div class="hero">
+        <div class="p-2 my-auto text-center text-white">
+            <h1>Sign Up</h1>
+        </div>
+    </div>
     <div class="container">
         <div class="form-wrapper row">
-            <div class="d-block d-md-none d-lg-block carousel slide carousel-fade col-md-6 position-sticky top-0 my-auto" data-bs-ride="carousel">
+            <div class="form-img d-block d-md-none d-lg-block carousel slide carousel-fade col-md-6 top-0 my-auto" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="./images/pulp-fiction.avif" class="d-block w-100" alt="...">
@@ -56,13 +77,13 @@
                     </div>
                 </div>
             </div>
-            <div class="d-none d-md-block d-lg-none col-md-6 position-sticky top-0 my-auto">
+            <div class="form-img d-none d-md-block d-lg-none col-md-6 top-0 my-auto">
                 <img src="./images/pulp-fiction.avif" class="d-block w-100" alt="...">
                 <img src="./images/barbie-image.jpg" class="d-block w-100" alt="...">
                 <img src="./images/godfather.png.webp" class="d-block w-100" alt="...">
             </div>
             <div class="col-sm-12 col-md-6">
-                <form class="shadow-lg p-3 mb-5 bg-body-muted rounded" id = "form">
+                <form class="shadow-lg p-3 mb-5 bg-body-muted rounded " id = "form" >
                     <div class="mb-3">
                         <label for="title" class="form-label">Title <span class="text-danger">*</span></label>
                         <select class="form-select" id="title" required>
@@ -76,7 +97,7 @@
                     <div class="mb-3">
                         <label for="first-name" class="form-label">First Name <span class="text-danger">*</span></label>
                         <input type="text" class="form-control" id="first-name" placeholder="e.g. Joe" aria-describedby="firstNameHelp" required>
-                        <div id="firstNameHelp" class="form-text">Please enter your first name.</div>
+                        <div id="firstNameHelp" class="form-text" >Please enter your first name.</div>  
                     </div>
                     <div class="mb-3">
                         <label for="last-name" class="form-label">Last Name <span class="text-danger">*</span></label>
@@ -90,14 +111,14 @@
                     </div>
                     <div class="mb-3">
                         <label for="datepicker">Date of Birth </label>
-                        <input type="date" class="form-control" id="datepicker" name="date" placeholder="dd/mm/yyyy>
+                        <input type="date" class="form-control" id="datepicker" name="date" placeholder="dd/mm/yyyy>">
                     </div>
                     <div class="mb-3">
                         <label for="phoneNumber" class="form-label">Phone <span class="text-danger">*</span></label>
                         <input type="tel" class="form-control" id="phoneNumber" aria-describedby="phoneHelp" required placeholder="+44 0123456789">
                         <div id="phoneHelp" class="form-text">We'll never share your phone number with anyone else.</div>
                     </div>
-                    <div class="flex">
+                    <div class="d-flex">
                         <button type="submit" class="btn btn-primary ml-auto">Sign me up</button>
                     </div>
                 </form>
@@ -105,18 +126,30 @@
             
         </div>
     </div>
-    <footer>
-        <div class="socials">
-            <ul>
-                <li><a href="#">X</a></li>
-                <li><a href="#">Facebook</a></li>
-                <li><a href="#">Youtube</a></li>
-                <li><a href="#">Instagram</a></li>
-                <li><a href="#">Reddit</a></li>
-                <li><a href="#">TikTok</a></li>
+    <footer class="footer mt-auto py-5">
+        <div class="container">
+            <p class="text-center py-5 lead">Follow us:</p>
+            <ul class="list-inline text-center">
+                <li class="list-inline-item">
+                    <a href="#"><img src="images/socials/instagramwhite.png" alt="ig logo" /></a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#"><img src="images/socials/facebookwhite.png" alt="facebook logo" /></a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#"><img src="images/socials/twitterwhite.png" alt="twitterX logo" /></a>
+                </li>
+                <li class="list-inline-item">
+                    <a href="#"><img src="images/socials/tiktokwhite.png" alt="tiktok logo" /></a>
+                </li>
+            </ul>
+            <ul class="list-inline text-center pt-5">
+                <li class="list-inline-item small">Privacy</li>
+                <li class="list-inline-item small">Disclaimer</li>
+                <li class="list-inline-item small">Terms & Conditions</li>
             </ul>
         </div>
-        <p>&copy; 2024 DF Cinema</p>
+        <p class="text-center pb-5 pt-2 small">&copy; 2024 DF Cinema</p>
     </footer>
 </body>
 
