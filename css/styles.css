@@ -1,22 +1,38 @@
-html, body {
-    margin: 0;
-    padding: 0;
+html,
+body {
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    font-family: 'Lato', sans-serif;
-    font-size: 16px;
-    color: #333;
-    background-color: #f4f4f4;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  color: #333;
+  background-color: #f4f4f4;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
-    font-weight: 700;
-    color: #333;
-    margin: 0 0 20px 0;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+  color: #333;
+  margin: 0 0 20px 0;
 }
 
 .btn-primary {
-    background-color: rgb(255, 41, 156);
+  background-color: rgb(255, 41, 156);
+}
+
+footer {
+  background-color: #222222;
+}
+
+footer > p,
+footer > div > p,
+.list-inline-item {
+  color: #ff299c;
 }
