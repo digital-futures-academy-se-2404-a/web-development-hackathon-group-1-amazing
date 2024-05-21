@@ -30,8 +30,43 @@ header {
 }
 
 .navbar-nav .nav-item .active {
-  text-decoration: underline;
   font-weight: bold;
+}
+
+
+.navbar-nav .nav-item .active::before {
+  height: 2px;
+  content: "";
+  position: absolute;
+  background-color: #fff;
+  width: 100%;
+  bottom: -3px;
+}
+
+.navbar-nav .nav-item {
+  position: relative;
+}
+
+.navbar-nav .nav-item .nav-link {
+  padding: 0;
+}
+
+.navbar-nav .nav-item::before {
+  transition: 300ms;
+  height: 2px;
+  content: "";
+  position: absolute;
+  background-color: #fff;
+  width: 0%;
+  bottom: -3px;
+}
+
+.navbar-nav .nav-item:hover::before {
+  width: 100%;
+}
+
+.navbar-nav .nav-item:hover {
+  opacity: 1;
 }
 
 .container {
@@ -89,11 +124,26 @@ footer {
 }
 
 footer a {
+  position: relative;
   color: #ff299c;
   text-decoration: none;
 }
+footer .footer-links a::before {
+  transition: 300ms;
+  height: 1px;
+  content: "";
+  position: absolute;
+  background-color: #f989bb;
+  width: 0%;
+  bottom: -3px;
+}
+
+footer .footer-links a:hover::before {
+  width: 100%;
+}
 
 footer a:hover {
+  opacity: 1;
   color: #f989bb;
 }
 
