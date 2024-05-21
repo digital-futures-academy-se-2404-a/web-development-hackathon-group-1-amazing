@@ -19,11 +19,21 @@ h5,
 h6 {
   font-family: "Lato", sans-serif;
   font-weight: 700;
-  color: #333;
+  color: #ff299c;
   margin: 0 0 20px 0;
 }
 
+.container {
+  margin: 40px auto;
+}
+
+#carouselWhatsOn h4 {
+  color: #ffffff;
+  font-weight: bold;
+}
+
 .btn-primary {
+  border: 1px solid #ff299c;
   background-color: rgb(255, 41, 156);
 }
 
