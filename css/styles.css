@@ -71,6 +71,15 @@ footer {
   background-color: #222222;
 }
 
+footer a {
+  color: #ff299c;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #f989bb;
+}
+
 footer > p,
 footer > div > p,
 .list-inline-item {
@@ -78,7 +87,7 @@ footer > div > p,
 }
 
 footer > img:hover {
-
+  transform: scale(1.2);
 }
 
 @media (min-width: 768px) {
